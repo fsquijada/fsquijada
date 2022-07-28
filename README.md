@@ -5,7 +5,7 @@
 
 ---
 ### :blue_heart: &nbsp;&nbsp;My passions
-* Mainly Codding :man_technologist: :star_struck:
+* Mainly Coding :man_technologist: :star_struck:
 * Sports :soccer: :tennis: :running_man: :man_dancing:
 * Love music :notes: :headphones: :musical_note: 
 * Go to the :performing_arts:
@@ -30,4 +30,4 @@
 <a href="https://www.linkedin.com/in/fredyquijada/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="fredyquijada" width="35"/></a>
 <a href="https://www.instagram.com/fredy_q.ceballos"><img src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone5.png" alt="fredy_q.ceballos" width="35"/></a>
 </p>
-<p align="center"><i>With constant and tenacity you get what you want; the word 'impossible' is meaningless. <br/>Napoleon I Bonaparte</i></p>
+<p align="center"><i>With constant and tenacity you get what you want; the word 'impossible' is meaningless. <br/>Napoleon I. Bonaparte</i></p>
