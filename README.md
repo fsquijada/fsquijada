@@ -14,7 +14,7 @@
 * Eat :pizza: 
 
 ---
-### :star2: &nbsp;&nbsp;My skills
+### :star2: &nbsp;&nbsp;My skills, Languages and Tools
 <p align="left">
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="code" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -23,8 +23,19 @@
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/> </a>
+<a> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a> <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="flask" width="40" height="40"/> </a>
+<a> <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="40" height="40"/> </a>
+<a> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" width="40" height="40"/> </a>
+<a> <img src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" width="40" height="40"/> </a>
+<a> <img src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png" alt="elementary" width="40" height="40"/> </a>
 </p>
+
+---
+### :medal_sports: &nbsp;&nbsp;Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsquijada&show_icons=true&locale=en&layout=compact&theme=radical" alt="fsquijada" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=fsquijada&show_icons=true&locale=en&theme=radical" alt="fsquijada" /></p>
 
 ---
 <p align="center"><a href="https://twitter.com/Fredy_Sq"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="Fredy_Sq" width="35"/></a>
