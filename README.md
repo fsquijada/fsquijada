@@ -35,8 +35,12 @@
 </p>
 
 ---
+### :briefcase: &nbsp;&nbsp;Portfolio:
+[fredyquijada.com](http://fsquijada.github.io/Portafolio/)
+
+---
 ### :medal_sports: &nbsp;&nbsp;Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsquijada&show_icons=true&locale=en&layout=compact&theme=radical" alt="fsquijada" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=fsquijada&show_icons=true&locale=en&theme=radical" alt="fsquijada" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsquijada&show_icons=true&locale=en&layout=compact&theme=radical" alt="fsquijada" /></p>
 
 ---
 <p align="center"><a href="https://twitter.com/Fredy_Sq"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="Fredy_Sq" width="35"/></a>
